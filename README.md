@@ -1,6 +1,7 @@
 # smtpAuthTest.py
 
-### ./smtpAuthTest.py -h
+```bash
+# ./smtpAuthTest.py -h
 usage: smtpAuthTest.py [-h] [--username USERNAME] [--password PASSWORD] --host
                        HOST [--port PORT] [--tls] [--sender SENDER]
                        [--receiver RECEIVER]
@@ -20,3 +21,4 @@ optional arguments:
                         optional TestMail-Sender
   --receiver RECEIVER, -r RECEIVER
                         Send TestMail to Receiver
+```
