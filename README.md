@@ -1,0 +1,2 @@
+# smtpAuthTest
+Test smtp authentication
